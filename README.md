@@ -1,0 +1,2 @@
+# Okokdo
+Pendeteksi penyakit kamu 
